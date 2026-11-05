@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 240" width="70" height="240">
+<!-- InnQue 워터마크 리듬 띠 반복 타일 (웹용). 원본 규칙: 막대 2G(20) · 간격 1G/2G 교대 · 높이 6G(60) · 줄 간격 3G(30) · 줄마다 3G씩 밀림 · 코발트 없음. 근거: 가이드 11·12쪽, brand-ref/watermark/ 원본과 같은 배열 -->
+<path d="M10 0H30V60H10ZM50 0H70V60H50ZM50 90H70V150H50ZM20 90H40V150H20ZM20 180H40V240H20ZM60 180H70V240H60ZM0 180H10V240H0Z" fill="#E4E6E9"/>
+</svg>
